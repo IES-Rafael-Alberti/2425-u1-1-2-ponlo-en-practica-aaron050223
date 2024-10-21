@@ -78,3 +78,9 @@ Acitividad donde ponemos en oractica 3 lenguajes: C, Python y Java.
    - Si se entrega en formato PDF o Google Docs, asegúrate de cumplir con el mínimo y máximo de folios establecidos.
 4. **Compilación y Ejecución:**
    - Detalla claramente cómo compilar y ejecutar el código, incluyendo las instrucciones en el archivo `README.md`.
+
+5.1.1 La memoria RAM almacena de forma temporal la información, el procesador procesa esa información mediante la CPY y la expone mediante un periferico de salida (la pantalla) para que el usuario pueda ver esa información.
+
+5.2.1 El codigo fuente se compila a código objeto, que luego se enlaza en un ejecutable.
+5.2.2 El codigo fuente se ejecuta directamente por un interprete. Puede generarse un bytecode temporal para acelerar ejecuciones que se haran mas tarde.
+5.2.3 El código fuente se compila a bytecode, que es independiente del sistema. La JVM ejecuta este bytecode.
