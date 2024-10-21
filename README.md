@@ -92,6 +92,9 @@ que se haran mas tarde.
 
 **5.3.2** La jvm compila el bytecode a codigo maquina, permitiendo la ejecución en cualquier sistema con jvm. Utiliza técnicas como la compilación JIT para mejorar el rendimiento, dando portabilidad.
 
-**5.4.1** C tiene un modo de ejecución compilado, con un nivel de abstracción de bajo nivel y con paradigmas de programación imperativos. Java tiene un modo de ejecución basado en una maquina virtual, con un nivel de abstracción de alto nivel y esta orientado a objetos. Python es interpretado, se ejecuta linea por linea y es mas flexible pero lento.
+**5.4.1** C tiene un modo de ejecución compilado, con un nivel de abstracción de bajo nivel y con paradigmas de programación imperativos. Java tiene un modo de ejecución basado en una maquina virtual, con un nivel de abstracción de alto nivel y esta orientado a objetos. Python es interpretado, de alto nivel y Multiparadigma (imperativo y orientado a obejetos).
 
-**5.4.2**
+**5.4.2** C: Compilado a codigo máquina nativo, con una ejecución rapida y dependiente de la plataforma.
+Java: Usa jvm para ejecutar bytecode.
+Python: Interpretado, se ejecuta linea por linea, es mas flexible pero tambien mas lento.
+
