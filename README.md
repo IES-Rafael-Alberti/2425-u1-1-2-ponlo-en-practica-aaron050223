@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/9J9TrW2r)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=16664029&assignment_repo_type=AssignmentRepo)
 # Práctica 2: Introducción al desarrollo. Ponlo en práctica. 
 
 Apoyate en los siguientes recursos para realizar la práctica:
@@ -10,18 +12,18 @@ Apoyate en los siguientes recursos para realizar la práctica:
 # Título de la Actividad
 
 ## Identificación de la Actividad
-- **ID de la Actividad:** [ID de la actividad]
-- **Módulo:** [Nombre del módulo] (`PROG`, `IS`, `EDES`, etc.)
-- **Unidad de Trabajo:** [Número y nombre de la unidad de trabajo]
-- **Fecha de Creación:** [Fecha de creación]
-- **Fecha de Entrega:** [Fecha de entrega]
+- **ID de la Actividad:** 1.2 Ponlo en practica
+- **Módulo:** EDES
+- **Unidad de Trabajo:** U1
+- **Fecha de Creación:** 21/10/2024
+- **Fecha de Entrega:** 21/10/2024
 - **Alumno(s):** 
-  - **Nombre y Apellidos:** [Nombre y Apellidos del alumno o integrantes del grupo]
-  - **Correo electrónico:** [Correo electrónico g.educaand.es]
-  - **Iniciales del Alumno/Grupo:** [Iniciales del alumno o del grupo]
+  - **Nombre y Apellidos:** Aarón Gallardo Canto
+  - **Correo electrónico:** agalcan1410@g.educaand.es
+  - **Iniciales del Alumno/Grupo:** AGC
 
 ## Descripción de la Actividad
-[Descripción detallada de la actividad, objetivos, y contexto necesario para comprenderla. Explicar en qué consiste la actividad y qué se espera que el alumno desarrolle o implemente.]
+Acitividad donde ponemos en oractica 3 lenguajes: C, Python y Java.
 
 ## Instrucciones de Compilación y Ejecución
 1. **Requisitos Previos:**
@@ -76,3 +78,23 @@ Apoyate en los siguientes recursos para realizar la práctica:
    - Si se entrega en formato PDF o Google Docs, asegúrate de cumplir con el mínimo y máximo de folios establecidos.
 4. **Compilación y Ejecución:**
    - Detalla claramente cómo compilar y ejecutar el código, incluyendo las instrucciones en el archivo `README.md`.
+
+**5.1.1** La memoria RAM almacena de forma temporal la información, el procesador procesa esa información mediante la CPY y la expone mediante un periferico de salida (la pantalla) para que el usuario pueda ver esa información.
+
+**5.2.1** El codigo fuente se compila a código objeto, que luego se enlaza en un ejecutable.
+
+**5.2.2** El codigo fuente se ejecuta directamente por un interprete. Puede generarse un bytecode temporal para acelerar ejecuciones 
+que se haran mas tarde.
+
+**5.2.3** El código fuente se compila a bytecode, que es independiente del sistema. La JVM ejecuta este bytecode.
+
+**5.3.1** El compilador de java (javac) traduce el código fuente a bytecode. Este bytecode es un código intermedio independiente de la plataforma, diseñado para ser ejecutado por la maquina virtual.
+
+**5.3.2** La jvm compila el bytecode a codigo maquina, permitiendo la ejecución en cualquier sistema con jvm. Utiliza técnicas como la compilación JIT para mejorar el rendimiento, dando portabilidad.
+
+**5.4.1** C tiene un modo de ejecución compilado, con un nivel de abstracción de bajo nivel y con paradigmas de programación imperativos. Java tiene un modo de ejecución basado en una maquina virtual, con un nivel de abstracción de alto nivel y esta orientado a objetos. Python es interpretado, de alto nivel y Multiparadigma (imperativo y orientado a obejetos).
+
+**5.4.2** C: Compilado a codigo máquina nativo, con una ejecución rapida y dependiente de la plataforma.
+Java: Usa jvm para ejecutar bytecode.
+Python: Interpretado, se ejecuta linea por linea, es mas flexible pero tambien mas lento.
+
