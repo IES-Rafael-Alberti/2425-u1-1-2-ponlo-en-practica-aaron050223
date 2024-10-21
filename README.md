@@ -23,7 +23,7 @@ Apoyate en los siguientes recursos para realizar la práctica:
   - **Iniciales del Alumno/Grupo:** AGC
 
 ## Descripción de la Actividad
-[Descripción detallada de la actividad, objetivos, y contexto necesario para comprenderla. Explicar en qué consiste la actividad y qué se espera que el alumno desarrolle o implemente.]
+Acitividad donde ponemos en oractica 3 lenguajes: C, Python y Java.
 
 ## Instrucciones de Compilación y Ejecución
 1. **Requisitos Previos:**
